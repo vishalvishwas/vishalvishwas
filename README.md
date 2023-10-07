@@ -1,6 +1,6 @@
 [![MasterHead](./209037.gif)](https://github.com/Ch4kr4k/)
-<h1 align="center">🐧E Chakrak C C Marak🐧</h1>
-<h3 align="center">🐧CSE:NIT-an🐧</h3>
+<h1 align="center">🐧Vishal Vishwas🐧</h1>
+<h3 align="center">🐧CSE:GNDEC🐧</h3>
 <img align="right" alt="Coding" width="400" src="./icegif-2013.gif">
 
 - 🐧 I’m currently working at **...**
