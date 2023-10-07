@@ -22,10 +22,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.kali.org/"><img src="./pngwing.com.png" alt="kali" width="40" height="40"/></a> <a href="https://www.parrotsec.org/"><img src="https://community.parrotsec.org/uploads/default/original/2X/b/bc594f96ebf7e51d0ef80e2b0c4e588b66347b5f.png" alt="parrot" width="40" height="40"/></a>
+<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.kali.org/"><img src="./pngwing.com.png" alt="kali" width="40" height="40"/></a><a href="https://www.parrotsec.org/"><img src="https://community.parrotsec.org/uploads/default/original/2X/b/bc594f96ebf7e51d0ef80e2b0c4e588b66347b5f.png" alt="parrot" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalvishwas&show_icons=true&locale=en&layout=compact&theme=tokyonigh" alt="vishalvishwas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalvishwas&show_icons=true&locale=en&theme=tokyonigh" alt="vishalvishwas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalvishwas&show_icons=true&locale=en&theme=tokyonight" alt="vishalvishwas" /></p>
 
